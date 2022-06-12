@@ -39,5 +39,5 @@ function fazerPergunta() {
   setTimeout(function() {
     elementoResposta.style.opacity = 0;
     buttonPerguntar.removeAttribute("disabled")
-  }, 4000)
+  }, 7000)
 }
